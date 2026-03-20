@@ -1,5 +1,12 @@
 # lab22026v
 [![CI/CD Pipeline](https://github.com/diegobotia/lab22026v/actions/workflows/build.yml/badge.svg)](https://github.com/diegobotia/lab22026v/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=bugs)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=coverage)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
+
 
 BIENVENIDO A MI APP PARA GENERACION DE DATOS ALEATORIOS
 
