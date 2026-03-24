@@ -8,7 +8,7 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=diegobotia_lab22026v&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=diegobotia_lab22026v)
 
 
-BIENVENIDO A MI APP PARA GENERACION DE DATOS ALEATORIOS
+BIENVENIDO A MI APLICATION PARA GENERACION DE DATOS ALEATORIOS
 
 Implementation of a Simple App with the next operations:
 
