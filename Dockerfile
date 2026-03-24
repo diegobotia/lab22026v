@@ -4,7 +4,7 @@ WORKDIR /app
 COPY . .
 RUN mvn clean package -DskipTests
 
-FROM openjdk:11-ea-19-jre-slim
+FROM openjdk:11.0.16-jdk-slim-bullseye
 WORKDIR /app
 # Copia el JAR de la etapa 'build' a la etapa actual
 COPY --from=build /app/target/lab22026v.jar lab22026v.jar
